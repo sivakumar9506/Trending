@@ -112,6 +112,308 @@ const Trending = () => {
                         "url": "https://github.com/RangeKing",
                         "avatar": "https://avatars.githubusercontent.com/u/27466624?s=40&v=4"
                     }
+                ]},
+
+                    {
+                        "rank": 4,
+                        "username": "openai",
+                        "repositoryName": "whisper",
+                        "url": "https://github.com/openai/whisper",
+                        "description": null,
+                        "language": "Jupyter Notebook",
+                        "languageColor": "#DA5B0B",
+                        "totalStars": 6075,
+                        "forks": 322,
+                        "starsSince": 2306,
+                        "since": "daily",
+                        "builtBy": [
+                            {
+                                "username": "jongwook",
+                                "url": "https://github.com/jongwook",
+                                "avatar": "https://avatars.githubusercontent.com/u/266841?s=40&v=4"
+                            },
+                            {
+                                "username": "drdaxxy",
+                                "url": "https://github.com/drdaxxy",
+                                "avatar": "https://avatars.githubusercontent.com/u/40321?s=40&v=4"
+                            },
+                            {
+                                "username": "cool-RR",
+                                "url": "https://github.com/cool-RR",
+                                "avatar": "https://avatars.githubusercontent.com/u/56778?s=40&v=4"
+                            },
+                            {
+                                "username": "gglanzani",
+                                "url": "https://github.com/gglanzani",
+                                "avatar": "https://avatars.githubusercontent.com/u/630284?s=40&v=4"
+                            },
+                            {
+                                "username": "ldanilov",
+                                "url": "https://github.com/ldanilov",
+                                "avatar": "https://avatars.githubusercontent.com/u/1653257?s=40&v=4"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 5,
+                        "username": "3xp0rt",
+                        "repositoryName": "LockBit-Black-Builder",
+                        "url": "https://github.com/3xp0rt/LockBit-Black-Builder",
+                        "description": null,
+                        "language": null,
+                        "languageColor": null,
+                        "totalStars": 251,
+                        "forks": 179,
+                        "starsSince": 69,
+                        "since": "daily",
+                        "builtBy": [
+                            {
+                                "username": "3xp0rt",
+                                "url": "https://github.com/3xp0rt",
+                                "avatar": "https://avatars.githubusercontent.com/u/61662492?s=40&v=4"
+                            }
+                        ]
+                    },
+                    {
+                        "rank": 6,
+                        "username": "open-mmlab",
+                        "repositoryName": "mmyolo",
+                        "url": "https://github.com/open-mmlab/mmyolo",
+                        "description": "OpenMMLab YOLO series toolbox and benchmark",
+                        "language": "Python",
+                        "languageColor": "#3572A5",
+                        "totalStars": 408,
+                        "forks": 23,
+                        "starsSince": 168,
+                        "since": "daily",
+                        "builtBy": [
+                            {
+                                "username": "hhaAndroid",
+                                "url": "https://github.com/hhaAndroid",
+                                "avatar": "https://avatars.githubusercontent.com/u/17425982?s=40&v=4"
+                            },
+                            {
+                                "username": "PeterH0323",
+                                "url": "https://github.com/PeterH0323",
+                                "avatar": "https://avatars.githubusercontent.com/u/25873202?s=40&v=4"
+                            },
+                            {
+                                "username": "wanghonglie",
+                                "url": "https://github.com/wanghonglie",
+                                "avatar": "https://avatars.githubusercontent.com/u/33799979?s=40&v=4"
+                            },
+                            {
+                                "username": "vansin",
+                                "url": "https://github.com/vansin",
+                                "avatar": "https://avatars.githubusercontent.com/u/25839884?s=40&v=4"
+                            },
+                            {
+                                "username": "RangeKing",
+                                "url": "https://github.com/RangeKing",
+                                "avatar": "https://avatars.githubusercontent.com/u/27466624?s=40&v=4"
+                            }
+                        ]},
+
+                            {
+                                "rank": 7,
+                                "username": "openai",
+                                "repositoryName": "whisper",
+                                "url": "https://github.com/openai/whisper",
+                                "description": null,
+                                "language": "Jupyter Notebook",
+                                "languageColor": "#DA5B0B",
+                                "totalStars": 6075,
+                                "forks": 322,
+                                "starsSince": 2306,
+                                "since": "daily",
+                                "builtBy": [
+                                    {
+                                        "username": "jongwook",
+                                        "url": "https://github.com/jongwook",
+                                        "avatar": "https://avatars.githubusercontent.com/u/266841?s=40&v=4"
+                                    },
+                                    {
+                                        "username": "drdaxxy",
+                                        "url": "https://github.com/drdaxxy",
+                                        "avatar": "https://avatars.githubusercontent.com/u/40321?s=40&v=4"
+                                    },
+                                    {
+                                        "username": "cool-RR",
+                                        "url": "https://github.com/cool-RR",
+                                        "avatar": "https://avatars.githubusercontent.com/u/56778?s=40&v=4"
+                                    },
+                                    {
+                                        "username": "gglanzani",
+                                        "url": "https://github.com/gglanzani",
+                                        "avatar": "https://avatars.githubusercontent.com/u/630284?s=40&v=4"
+                                    },
+                                    {
+                                        "username": "ldanilov",
+                                        "url": "https://github.com/ldanilov",
+                                        "avatar": "https://avatars.githubusercontent.com/u/1653257?s=40&v=4"
+                                    }
+                                ]
+                            },
+                            {
+                                "rank": 8,
+                                "username": "3xp0rt",
+                                "repositoryName": "LockBit-Black-Builder",
+                                "url": "https://github.com/3xp0rt/LockBit-Black-Builder",
+                                "description": null,
+                                "language": null,
+                                "languageColor": null,
+                                "totalStars": 251,
+                                "forks": 179,
+                                "starsSince": 69,
+                                "since": "daily",
+                                "builtBy": [
+                                    {
+                                        "username": "3xp0rt",
+                                        "url": "https://github.com/3xp0rt",
+                                        "avatar": "https://avatars.githubusercontent.com/u/61662492?s=40&v=4"
+                                    }
+                                ]
+                            },
+                            {
+                                "rank": 9,
+                                "username": "open-mmlab",
+                                "repositoryName": "mmyolo",
+                                "url": "https://github.com/open-mmlab/mmyolo",
+                                "description": "OpenMMLab YOLO series toolbox and benchmark",
+                                "language": "Python",
+                                "languageColor": "#3572A5",
+                                "totalStars": 408,
+                                "forks": 23,
+                                "starsSince": 168,
+                                "since": "daily",
+                                "builtBy": [
+                                    {
+                                        "username": "hhaAndroid",
+                                        "url": "https://github.com/hhaAndroid",
+                                        "avatar": "https://avatars.githubusercontent.com/u/17425982?s=40&v=4"
+                                    },
+                                    {
+                                        "username": "PeterH0323",
+                                        "url": "https://github.com/PeterH0323",
+                                        "avatar": "https://avatars.githubusercontent.com/u/25873202?s=40&v=4"
+                                    },
+                                    {
+                                        "username": "wanghonglie",
+                                        "url": "https://github.com/wanghonglie",
+                                        "avatar": "https://avatars.githubusercontent.com/u/33799979?s=40&v=4"
+                                    },
+                                    {
+                                        "username": "vansin",
+                                        "url": "https://github.com/vansin",
+                                        "avatar": "https://avatars.githubusercontent.com/u/25839884?s=40&v=4"
+                                    },
+                                    {
+                                        "username": "RangeKing",
+                                        "url": "https://github.com/RangeKing",
+                                        "avatar": "https://avatars.githubusercontent.com/u/27466624?s=40&v=4"
+                                    }
+                                ]},
+
+                                    {
+                                        "rank": 10,
+                                        "username": "openai",
+                                        "repositoryName": "whisper",
+                                        "url": "https://github.com/openai/whisper",
+                                        "description": null,
+                                        "language": "Jupyter Notebook",
+                                        "languageColor": "#DA5B0B",
+                                        "totalStars": 6075,
+                                        "forks": 322,
+                                        "starsSince": 2306,
+                                        "since": "daily",
+                                        "builtBy": [
+                                            {
+                                                "username": "jongwook",
+                                                "url": "https://github.com/jongwook",
+                                                "avatar": "https://avatars.githubusercontent.com/u/266841?s=40&v=4"
+                                            },
+                                            {
+                                                "username": "drdaxxy",
+                                                "url": "https://github.com/drdaxxy",
+                                                "avatar": "https://avatars.githubusercontent.com/u/40321?s=40&v=4"
+                                            },
+                                            {
+                                                "username": "cool-RR",
+                                                "url": "https://github.com/cool-RR",
+                                                "avatar": "https://avatars.githubusercontent.com/u/56778?s=40&v=4"
+                                            },
+                                            {
+                                                "username": "gglanzani",
+                                                "url": "https://github.com/gglanzani",
+                                                "avatar": "https://avatars.githubusercontent.com/u/630284?s=40&v=4"
+                                            },
+                                            {
+                                                "username": "ldanilov",
+                                                "url": "https://github.com/ldanilov",
+                                                "avatar": "https://avatars.githubusercontent.com/u/1653257?s=40&v=4"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "rank": 11,
+                                        "username": "3xp0rt",
+                                        "repositoryName": "LockBit-Black-Builder",
+                                        "url": "https://github.com/3xp0rt/LockBit-Black-Builder",
+                                        "description": null,
+                                        "language": null,
+                                        "languageColor": null,
+                                        "totalStars": 251,
+                                        "forks": 179,
+                                        "starsSince": 69,
+                                        "since": "daily",
+                                        "builtBy": [
+                                            {
+                                                "username": "3xp0rt",
+                                                "url": "https://github.com/3xp0rt",
+                                                "avatar": "https://avatars.githubusercontent.com/u/61662492?s=40&v=4"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "rank": 12,
+                                        "username": "open-mmlab",
+                                        "repositoryName": "mmyolo",
+                                        "url": "https://github.com/open-mmlab/mmyolo",
+                                        "description": "OpenMMLab YOLO series toolbox and benchmark",
+                                        "language": "Python",
+                                        "languageColor": "#3572A5",
+                                        "totalStars": 408,
+                                        "forks": 23,
+                                        "starsSince": 168,
+                                        "since": "daily",
+                                        "builtBy": [
+                                            {
+                                                "username": "hhaAndroid",
+                                                "url": "https://github.com/hhaAndroid",
+                                                "avatar": "https://avatars.githubusercontent.com/u/17425982?s=40&v=4"
+                                            },
+                                            {
+                                                "username": "PeterH0323",
+                                                "url": "https://github.com/PeterH0323",
+                                                "avatar": "https://avatars.githubusercontent.com/u/25873202?s=40&v=4"
+                                            },
+                                            {
+                                                "username": "wanghonglie",
+                                                "url": "https://github.com/wanghonglie",
+                                                "avatar": "https://avatars.githubusercontent.com/u/33799979?s=40&v=4"
+                                            },
+                                            {
+                                                "username": "vansin",
+                                                "url": "https://github.com/vansin",
+                                                "avatar": "https://avatars.githubusercontent.com/u/25839884?s=40&v=4"
+                                            },
+                                            {
+                                                "username": "RangeKing",
+                                                "url": "https://github.com/RangeKing",
+                                                "avatar": "https://avatars.githubusercontent.com/u/27466624?s=40&v=4"
+                                            }
+                                    
+
                 ]
             }]
     )
@@ -168,7 +470,113 @@ const Trending = () => {
                     "description": null,
                     "url": "https://github.com/enisn/UraniumUI"
                 }
-            }]
+            },
+            {
+                "rank": 5,
+                "username": "benbjohnson",
+                "name": "Ben Johnson",
+                "url": "https://github.com/benbjohnson",
+                "avatar": "https://avatars.githubusercontent.com/u/118015?s=96&v=4",
+                "since": "daily",
+                "popularRepository": {
+                    "repositoryName": "litestream",
+                    "description": null,
+                    "url": "https://github.com/benbjohnson/litestream"
+                }
+            },
+            {
+                "rank": 6,
+                "username": "azure-sdk",
+                "name": "Azure SDK Bot",
+                "url": "https://github.com/azure-sdk",
+                "avatar": "https://avatars.githubusercontent.com/u/53356347?s=96&v=4",
+                "since": "daily",
+                "popularRepository": {
+                    "repositoryName": "azure-sdk-for-android",
+                    "description": null,
+                    "url": "https://github.com/azure-sdk/azure-sdk-for-android"
+                }
+            },
+            {
+                "rank": 7,
+                "username": "andrewlock",
+                "name": "Andrew Lock",
+                "url": "https://github.com/andrewlock",
+                "avatar": "https://avatars.githubusercontent.com/u/18755388?s=96&v=4",
+                "since": "daily",
+                "popularRepository": {
+                    "repositoryName": "NetEscapades.EnumGenerators",
+                    "description": null,
+                    "url": "https://github.com/andrewlock/NetEscapades.EnumGenerators"
+                }
+            },
+            {
+                "rank": 8,
+                "username": "enisn",
+                "name": "Enis Necipoglu",
+                "url": "https://github.com/enisn",
+                "avatar": "https://avatars.githubusercontent.com/u/23705418?s=96&v=4",
+                "since": "daily",
+                "popularRepository": {
+                    "repositoryName": "UraniumUI",
+                    "description": null,
+                    "url": "https://github.com/enisn/UraniumUI"
+                }
+            } ,
+            {
+                "rank": 9,
+                "username": "benbjohnson",
+                "name": "Ben Johnson",
+                "url": "https://github.com/benbjohnson",
+                "avatar": "https://avatars.githubusercontent.com/u/118015?s=96&v=4",
+                "since": "daily",
+                "popularRepository": {
+                    "repositoryName": "litestream",
+                    "description": null,
+                    "url": "https://github.com/benbjohnson/litestream"
+                }
+            },
+            {
+                "rank": 10,
+                "username": "azure-sdk",
+                "name": "Azure SDK Bot",
+                "url": "https://github.com/azure-sdk",
+                "avatar": "https://avatars.githubusercontent.com/u/53356347?s=96&v=4",
+                "since": "daily",
+                "popularRepository": {
+                    "repositoryName": "azure-sdk-for-android",
+                    "description": null,
+                    "url": "https://github.com/azure-sdk/azure-sdk-for-android"
+                }
+            },
+            {
+                "rank": 11,
+                "username": "andrewlock",
+                "name": "Andrew Lock",
+                "url": "https://github.com/andrewlock",
+                "avatar": "https://avatars.githubusercontent.com/u/18755388?s=96&v=4",
+                "since": "daily",
+                "popularRepository": {
+                    "repositoryName": "NetEscapades.EnumGenerators",
+                    "description": null,
+                    "url": "https://github.com/andrewlock/NetEscapades.EnumGenerators"
+                }
+            },
+            {
+                "rank": 12,
+                "username": "enisn",
+                "name": "Enis Necipoglu",
+                "url": "https://github.com/enisn",
+                "avatar": "https://avatars.githubusercontent.com/u/23705418?s=96&v=4",
+                "since": "daily",
+                "popularRepository": {
+                    "repositoryName": "UraniumUI",
+                    "description": null,
+                    "url": "https://github.com/enisn/UraniumUI"
+                }
+            }
+
+        ]
     )
 
     const [tabPane, setTabPane] = useState(1);
@@ -275,9 +683,10 @@ const Trending = () => {
                                                       
                                                       <div className="col-9">
                                                       <div style={{marginLeft:"10px",color:"#007FFF"}}>  {item.name} </div> 
-                                                        <div style={{fontSize:"12px",paddingLeft: "9px"}}> {item.username}</div>
+                                                        <div style={{fontSize:"12px",paddingLeft: "9px"}}> {item.username} </div>
                                                         </div>
                                                          </div>
+                                        
                                                     </div>
                                                     <div className="col-4">
                                                   <span >  <ImPacman style={{ color: "#FF8C00" }} /><a style={{textDecoration: "none",color:"white"}} href={item.popularRepository.url}>POPOLLAR REPO</a> </span><br /> 
